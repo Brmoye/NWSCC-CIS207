@@ -1,0 +1,30 @@
+/* Brian Moye 2020-09-21 */
+
+body {
+	color: #000000;
+	background-color: #FF9900;
+	font-family: Calibri, sans-serif;
+}
+
+#wrapper {
+	width: 80%; 
+	margin: 0 auto 0 auto;
+}
+
+.floatleft {
+	float: left;
+	margin-right: 2%;
+}
+
+.floatright {
+	float: right;
+	margin-right: 2%;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+.boldtext, dt {
+	font-weight: bold;
+}
